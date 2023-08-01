@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 12 Jul 2023 16:27:59 at https://wickedapp.fun/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://wickedapp.fun/* +*https://wickedapp.fun/*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://wickedapp.fun/ -O1 "C:\My Web Sites\wicked site" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://wickedapp.fun/* +*https://wickedapp.fun/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:28:06	Error: 	"Not Found" (404) at link https://wickedapp.fun/itms-services://?action=download-manifest&url=https://wickedapp.fun/plist/app.plist (from https://wickedapp.fun/)
+16:29:07	Error: 	"Not Found" (404) at link https://wickedapp.fun/repo/apt-repo://https://wickedapp.fun/repo/ (from https://wickedapp.fun/repo/)
+16:29:07	Error: 	"Not Found" (404) at link https://wickedapp.fun/theme-guide.html (from https://wickedapp.fun/repo/)
+16:29:07	Error: 	"Not Found" (404) at link https://wickedapp.fun/theme-guide/home.html (from https://wickedapp.fun/repo/)
+16:29:07	Error: 	"Not Found" (404) at link https://wickedapp.fun/shortcuts.html (from https://wickedapp.fun/repo/)
+16:29:07	Error: 	"Not Found" (404) at link https://wickedapp.fun/stock-identifiers.html (from https://wickedapp.fun/repo/)
+16:29:07	Error: 	"Not Found" (404) at link https://wickedapp.fun/package/Bleed/index.html (from https://wickedapp.fun/repo/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 8 seconds : 25 links scanned, 17 files written (118699608 bytes overall) [115447652 bytes received at 1697759 bytes/sec], 118546312 bytes transferred using HTTP compression in 18 files, ratio 97%, 2.1 requests per connection
+(7 errors, 0 warnings, 0 messages)
